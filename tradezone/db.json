@@ -5,10 +5,10 @@
       "name": "T-Shirt",
       "image": "https://media.istockphoto.com/id/898398734/photo/white-t-shirt.jpg?s=612x612&w=0&k=20&c=286SswWGFeJM0Z7GIh3lV-xD9yR1p-j3cAxffCtHS5M=",
       "description": "A comfortable cotton t-shirt in a variety of colors.",
-      "price": 19.99,
+      "price": "50.00",
       "category": "clothes",
       "favorite": 1,
-      "purchases_count": 23
+      "purchases_count": 29
     },
     {
       "id": 4,
@@ -18,7 +18,7 @@
       "price": 59.99,
       "category": "clothes",
       "favorite": 0,
-      "purchases_count": 13
+      "purchases_count": 15
     },
     {
       "id": 5,
@@ -28,7 +28,7 @@
       "price": 99.99,
       "category": "kitchen items",
       "favorite": 1,
-      "purchases_count": 59
+      "purchases_count": 60
     },
     {
       "id": 6,
@@ -48,17 +48,7 @@
       "price": 49.99,
       "category": "beauty products",
       "favorite": 1,
-      "purchases_count": 23
-    },
-    {
-      "id": 8,
-      "name": "Perfume",
-      "image": "https://images.lucepictor.com/wp-content/uploads/2016/09/perfume-product-photograph-on-white.jpg",
-      "description": "A floral and fruity perfume that is perfect for daily wear.",
-      "price": 99.99,
-      "category": "beauty products",
-      "favorite": 0,
-      "purchases_count": 5
+      "purchases_count": 24
     },
     {
       "id": 10,
