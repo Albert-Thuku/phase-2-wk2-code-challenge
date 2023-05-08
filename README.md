@@ -1,7 +1,7 @@
-# phase-1-project
+# phase-2-project
 ***
 ### AUTHOR:ALBERT THUKU 
-### Date:APRIL 6TH
+### Date:APRIL 30TH
 **
 ## Project Description
 TradeZone is an online shopping web application that makes online shopping convinient for all users. On load, the user is met with the list of categories available as well as the list of products available in the store.
