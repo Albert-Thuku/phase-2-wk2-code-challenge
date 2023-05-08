@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 3,
-      "name": "T-Shirt",
+      "name": "White T-shirt",
       "image": "https://media.istockphoto.com/id/898398734/photo/white-t-shirt.jpg?s=612x612&w=0&k=20&c=286SswWGFeJM0Z7GIh3lV-xD9yR1p-j3cAxffCtHS5M=",
       "description": "A comfortable cotton t-shirt in a variety of colors.",
-      "price": "50.00",
+      "price": "25.00",
       "category": "clothes",
       "favorite": 1,
-      "purchases_count": 29
+      "purchases_count": 31
     },
     {
       "id": 4,
@@ -18,7 +18,7 @@
       "price": 59.99,
       "category": "clothes",
       "favorite": 0,
-      "purchases_count": 15
+      "purchases_count": 16
     },
     {
       "id": 5,
@@ -52,10 +52,10 @@
     },
     {
       "id": 10,
-      "name": "Puzzle",
+      "name": "Among Us Game",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCxC8i3Cg95wq3lcrRG9JC4Iia4ytSk_nUA&usqp=CAU",
       "description": "A challenging puzzle that features a beautiful landscape.",
-      "price": 29.99,
+      "price": "100.00",
       "category": "toys",
       "favorite": 0,
       "purchases_count": 42
